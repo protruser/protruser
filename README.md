@@ -52,7 +52,6 @@
 ## 📞 Contact Me
 
 - 📧 **Email**: marokk9768@gmail.com
-- 💼 **Instagram**: [Instagram](https://www.instagram.com/ssy_sd9/)
-- 🌐 **Blog**: [Tistory](https://protruser.tistory.com)
+- 🌐 **Blog**: https://protruser.tistory.com
 
 ---
