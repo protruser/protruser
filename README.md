@@ -45,7 +45,7 @@
 <details>
   <summary>2024</summary>
   
-  - [Business Process Management Course Practice Site](https://academic-cloud.apromore.org/) - Directory Indexing
+  - [Business Process Management Course Practice Site](#) - Directory Indexing
 
 </details>
 
