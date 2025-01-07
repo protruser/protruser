@@ -25,14 +25,15 @@
   <img src="https://img.shields.io/badge/-Burp Suite-FF6633?style=flat&logo=Burp Suite&logoColor=white">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white">
 
+<!--
 ---
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: tic-tac-toe Game][(https://github.com/yourusername/project1)](https://github.com/protruser/react-tictactoe-deploy)
+### 📊 [Project 1: tic-tac-toe Game][(https://github.com/protruser/react-tictactoe-deploy)](https://github.com/protruser/react-tictactoe-deploy)
 - **Tech Stack**: React, Javascript
 - **Summary**: You can easily play tictactoe game!
-
+-->
 <!--
 ### 🕹️ [Project 2: Game Development Project](https://github.com/yourusername/project2)
 - **Tech Stack**: Pygame, Python  
