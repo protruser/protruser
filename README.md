@@ -40,6 +40,20 @@
 - **Summary**: A simple avoider game built with Pygame.
 -->
 ---
+## 🛠️ Vulnerability Report
+
+<details>
+  <summary>2024</summary>
+  
+  - [Business Process Management Course Practice Site](https://academic-cloud.apromore.org/) - Directory Indexing
+
+</details>
+
+
+
+
+
+---
 
 ## 📊 GitHub Stats
 
