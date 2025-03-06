@@ -52,14 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=protruser&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protruser&layout=compact&theme=radical)  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=protruser&show_icons=true&theme=transparent)
-
----
-
 ## 📞 Contact Me
 
 - 📧 **Email**: marokk9768@gmail.com
