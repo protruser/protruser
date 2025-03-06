@@ -1,6 +1,6 @@
 # 👋 Hi, I'm protruser!
 
-🎓 ITM Student at SeoulTech | 🌱 Learning hacking | 🚀 CTF / Wargame
+🎓 ITM Student in SeoulTech | 🌱 Learning hacking | 🚀 CTF / Wargame
 
 
 ## Algorithm
