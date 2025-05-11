@@ -41,8 +41,7 @@
 
 <details>
   <summary>2024</summary>
-  
-  - [Business Process Management Course Practice Site](https://protruser.tistory.com/62) - Directory Indexing(24/12)
+  - 1
 
 </details>
 
