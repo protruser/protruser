@@ -10,21 +10,38 @@
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages** <br>
+- 💻 **Languages & Frameworks** <br>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 - 🛢️ **Databases** <br>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQLite3-003B57?style=flat&logo=SQLite&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-- ⚙️ **Tools & Platforms** <br>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=BurpSuite&logoColor=white">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=Metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQLite3-003B57?style=flat&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+- 🛡️ **Security & Reverse Engineering** <br>
+  <img src="https://img.shields.io/badge/-IDA_Pro-0C5460?style=flat&logo=IDA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GDB-000000?style=flat&logo=GNU&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pwntools-C71585?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=BurpSuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=Metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nmap-2535A0?style=flat&logo=FreeBSD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
+- ⚙️ **DevOps & Infrastructure** <br>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rocky_Linux-10B981?style=flat&logo=RockyLinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white"/>
 
 <!--
 ---
