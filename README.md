@@ -41,13 +41,6 @@
 - **Summary**: A simple avoider game built with Pygame.
 -->
 ---
-## 🛠️ Vulnerability Report
-
-<details>
-  <summary>2024</summary>
-  - 1
-
-</details>
 
 
 
