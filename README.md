@@ -17,10 +17,14 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
 - 🛢️ **Databases** <br>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite3-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 - ⚙️ **Tools & Platforms** <br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/-Burp Suite-FF6633?style=flat&logo=Burp Suite&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=BurpSuite&logoColor=white">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=Metasploit&logoColor=white">
 
 <!--
 ---
