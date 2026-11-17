@@ -1,5 +1,13 @@
-ITM Student <br>
-Learning Hacking / Offensive Security
+
+
+> ITM student learning hacking and offensive security.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=protruser)](https://solved.ac/protruser/)
+
+- Blog: [protruser.tistory.com](https://protruser.tistory.com)
+- E-mail: marokk9768@gmail.com
+
+<!--
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=protruser)](https://solved.ac/protruser/)
@@ -41,7 +49,6 @@ Learning Hacking / Offensive Security
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white"/>
 
-<!--
 ---
 
 ## Projects
@@ -49,18 +56,8 @@ Learning Hacking / Offensive Security
 ### [Project 1: tic-tac-toe Game][(https://github.com/protruser/react-tictactoe-deploy)](https://github.com/protruser/react-tictactoe-deploy)
 - **Tech Stack**: React, Javascript
 - **Summary**: You can easily play tictactoe game!
--->
-<!--
+
 ### [Project 2: Game Development Project](https://github.com/yourusername/project2)
 - **Tech Stack**: Pygame, Python  
 - **Summary**: A simple avoider game built with Pygame.
 -->
----
-
-
-## Contact Me
-
-- **Email**: marokk9768@gmail.com
-- **Blog**: https://protruser.tistory.com
-
----
