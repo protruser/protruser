@@ -55,9 +55,9 @@
 ---
 
 
-## 📞 Contact Me
+## Contact Me
 
-- 📧 **Email**: marokk9768@gmail.com
-- 🌐 **Blog**: https://protruser.tistory.com
+- **Email**: marokk9768@gmail.com
+- **Blog**: https://protruser.tistory.com
 
 ---
